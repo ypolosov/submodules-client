@@ -1,0 +1,20 @@
+{
+  "npmScope": "myworkspacename",
+  "projects": {
+    "school": {
+      "tags": []
+    },
+    "school-e2e": {
+      "tags": []
+    },
+    "office": {
+      "tags": []
+    },
+    "office-e2e": {
+      "tags": []
+    },
+    "ui": {
+      "tags": []
+    }
+  }
+}
